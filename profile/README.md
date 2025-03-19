@@ -8,7 +8,7 @@
   *팀장*  
   Email: hjjeong@donga-ispl.kr
 - **조동건** 👨‍💻  
-  *팀원2*  
+  *팀원1*  
   Email: dgjo@donga-ispl.kr
 
 - **강다영** 👨‍💻  
