@@ -11,10 +11,6 @@
   *팀원1*  
   Email: dgjo@donga-ispl.kr
 
-- **강다영** 👨‍💻  
-  *팀원2*  
-  Email: dykang@donga-ispl.kr
-
 ---
 
 > "우리는 다르다!" 💪
